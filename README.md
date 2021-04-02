@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Yu Hao, 🎓PhD in Applied Geophysics.
+
+- 🔭 I’m currently an engineer and researcher at AVIC Institute of Geotechinical Engineering.
+- 🔬 I'm recently researching on Geotechnical Tests, Machine Learning, and Heliospheric Magnetic Field.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whimian)](https://github.com/anuraghazra/github-readme-stats)
